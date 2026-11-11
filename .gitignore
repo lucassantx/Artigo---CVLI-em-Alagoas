@@ -1,0 +1,6 @@
+cvli.csv
+*.xlsx
+.ipynb_checkpoints/
+__pycache__/
+.env
+.DS_Store
