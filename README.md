@@ -64,7 +64,7 @@ Média real no teste: 0,764 vítima por município-mês. Nenhum modelo superou d
 
 Vítimas por mês: real e previsto
 
-![Vítimas por mês: real e previsto](figuras/fig2_previsto_real.png)
+![Vítimas por mês: real e previsto](figuras/rq3_previsto_real.png)
 
 ### Resultados complementares
 
